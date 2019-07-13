@@ -1,10 +1,10 @@
 spring:
   datasource:
 #   数据源基本配置
-    username: huangxiaoqing
-    password: Android123
+    username: ?
+    password: ?
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://android123.mysql.rds.aliyuncs.com:3306/community
+    url: ?
     type: com.alibaba.druid.pool.DruidDataSource
 #   数据源其他配置
     initialSize: 5
